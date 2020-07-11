@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hyangsuk Min(민향숙)
-    tagline: Data Science
+    name: Hyangsuk Min
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,6 +54,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     - degree: MSc in Industrial & Systems engineering (Graduate school of Knowledge Service Engineering)
       university: Korea Advanced Institute of Science and Technology (KAIST)
